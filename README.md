@@ -1,7 +1,7 @@
 # pro7_Moduler_package
 
 # Video Explanation
-https://drive.google.com/file/d/1INJAkSzc8QyFhNkikn-BVn0GSLhfNl87/view?usp=drive_link
+https://drive.google.com/file/d/1INJAkSzc8QyFhNkikn-BVn0GSLhfNl87/view?usp=sharing
 
 ## 📌 Overview
 This is a Python-based Employee Management System developed using Object-Oriented Programming (OOP). The application allows users to manage employee records through a simple menu-driven interface.
